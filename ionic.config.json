@@ -1,0 +1,7 @@
+{
+  "name": "iot-mobile-renderer",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
